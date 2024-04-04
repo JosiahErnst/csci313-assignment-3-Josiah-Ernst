@@ -1,0 +1,44 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+    border: none;
+    
+  }
+
+#col-sm-2{
+    border: 3px solid cadetblue;
+    border-radius: 20px;
+}
+
+#logout-form {
+    display: inline;
+}
+
+#logout-form button {
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color:white;
+    background-color:darkslategray;
+    border: 3px solid gray;
+    border-radius: 20px;
+}
+  
+p{
+    color: lightblue;
+    border: 3px solid gold;
+    border-radius: 20px;
+}
+
+ul{
+    color: lightblue;
+    border: 3px solid gold;
+    border-radius: 20px;
+}
+
+body{
+    background-color:darkslategray;
+}
